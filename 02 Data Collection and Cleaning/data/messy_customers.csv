@@ -1,0 +1,26 @@
+customer_id,name,email,signup_date,spend,country,region,notes
+C1001, John Doe ,john.doe@example.com,2023-01-05,$12.50,US,North,first purchase
+C1002,Jane Smith,jane.smith@example.com,02/11/2022,8.00 USD,Canada,North,
+C1003,John doe,john.doe@example.com,2023-01-05,$12.50,USA,North,duplicate of C1001
+C1004,Alice Johnson,"ALICE.JOHNSON@EXAMPLE.COM",05-Mar-2021,-15.00,United States,South,negative refund
+C1005,Bob Brown,bob.brown@example.com,2022/3/9,1200.00,CA,North,wholesale
+C1006,  Carol White  ,carol.white@example.com,2023-06-30,4.5,US,West,
+C1007,David Lee,,2023-07-01,N/A,MX,South,no email
+C1008,Eve Black,eve.black@example.com,11-2020-02,25.00,US,East,suspect date
+C1009,Frank Green, frank.green@example.com ,2022-12-25,"2,000,000.00",USA,East,outlier huge
+C1010,Grace Hall,grace.hall@example.com,2023-02-14,,Canada,North,empty spend
+C1011,Henry King,henry.king@example.com,2021-09-18,64.20,us,North,
+C1012,Ivy Lane,ivy.lane@example.com,2023-04-01,9.75,USA,South,
+C1013,Jack Moon,unknown@example.com,2022-10-10,41.00,U.S.A.,East,country variant
+C1014,Kate Nole,kate.nole@example.com,2023-01-05,$12.50,US,North,also like C1001
+C1015,John Doe,john.doe@example.com,2023-01-05,$12.50,US,North,second exact duplicate
+C1016,Liam Poe,liam.poe@example.com,2020-07-07,88.90,Mexico,South,
+C1017,Mia Rue,,2023-08-08,17.30,US,West,missing email blank
+C1018,Noah Set,noah.set@example.com,2023-09-01,N/a,ca,North,mixed N/A
+C1019,Olivia Tom,olivia.tom@example.com,19/11/2022,33.33,US,East,dd/mm/yyyy
+C1020,Peter Uwe,peter.uwe@example.com,2023-03-15,"5,00",USA,West,malformed spend
+C1021,Quinn Vale,,2022-05-05,,,South,all blank row-ish
+C1022,Rita Wood,rita.wood@example.com,unknown,12.00,US,North,unknown date
+C1023,Sam Xray,sam.xray@example.com,2023-11-11,155.00,UK,East,
+C1024,Tina Yoo,tina.yoo@example.com,2022-01-01,-5.00,Canada,North,negative small
+C1025,Uma Zen,uma.zen@example.com,2021-12-31,0.00,US,West,zero spend

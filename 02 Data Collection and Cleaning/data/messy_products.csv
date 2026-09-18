@@ -1,0 +1,13 @@
+product_id,name,price,stock,category
+P001,Wireless Mouse,25.99,42,Electronics
+P002,USB-C Cable,$12.00,150,electronics
+P003,Mechanical Keyboard,84.99,,Electronics
+P004, USB-C Cable ,12.00,150,electronics
+P005,Webcam,39.50,8,Computer Peripherals
+P006,Monitor 24in,249.00,3,Electronics
+P007,Desk Lamp,,60,furniture
+P008,Mouse Pad,8.99,200,Accessories
+P009,Hub 4-port,17.4,0,accessories
+P010,Screen Cleaner,6.25,85,Accessories
+P011,Monitor 24in,$249.00,3,Electronics
+P012,Keyboard Wristrest,14.99,14,Accessories
