@@ -1,0 +1,4 @@
+Pipes connect commands: the output of one flows into the next.
+cat app.log | wc -l counts the lines in a file.
+Redirection > saves output to a file instead of the screen.
+$ ls sample > saved.txt   (writes into saved.txt)

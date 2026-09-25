@@ -1,0 +1,4 @@
+Scripts automate repeated work.
+Start a script with #!/usr/bin/env bash.
+Make variables with NAME=value and read them with $NAME.
+Always quote "$1" to survive spaces in file names.
