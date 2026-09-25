@@ -1,0 +1,14 @@
+2026-09-01 08:12:03 INFO  service started on port 8080
+2026-09-01 08:12:05 INFO  config file loaded: app.yaml
+2026-09-01 08:14:41 WARN  slow request: /api/report took 4123 ms
+2026-09-01 09:00:00 INFO  daily job started: cleanup
+2026-09-01 09:00:07 ERROR disk usage at 91%
+2026-09-01 09:02:11 INFO  user login: alice
+2026-09-01 09:03:33 INFO  user login: bob
+2026-09-01 10:15:20 WARN  slow request: /api/export took 3881 ms
+2026-09-01 10:20:02 ERROR connection reset by peer: 10.0.0.5
+2026-09-02 08:12:03 INFO  service started on port 8080
+2026-09-02 08:13:50 INFO  cache warmed up
+2026-09-02 09:00:00 ERROR disk usage at 96% - urgent
+2026-09-02 09:05:12 WARN  slow request: /api/report took 4500 ms
+2026-09-02 10:00:00 INFO  daily job finished: cleanup

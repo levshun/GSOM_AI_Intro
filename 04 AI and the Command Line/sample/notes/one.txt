@@ -1,0 +1,4 @@
+The command line talks to the operating system.
+Every command has three parts: name, options, arguments.
+Example: ls -la sample
+Safety first: read before you run.
